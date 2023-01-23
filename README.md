@@ -10,14 +10,19 @@ The goal is to help the local school board and mayor make strategic decisions re
 
 ### Methods
 **District Summary**
+
 Calculations were performed to create a snapshot of the district's key metrics in a DataFrame. This will include the following:
+
         * Total number of unique schools, students and budget
         * Average math and reading scores
         * Percentage of students who passed math, reading and who passed both math and reading
         
         
+        
 **School Summary**
+
 Calculations were performed to create a DataFrame summarizing key metrics about each school. This will include the following:
+
         * School name and type
         * Total students and school budget
         * Per student budget
@@ -26,6 +31,7 @@ Calculations were performed to create a DataFrame summarizing key metrics about 
         
         
 DataFrames were then created to illustrate:
+
     * Highest and lowest-performing schools
     * Math and reading scores by grade
     * Scores by school spending, school size and school type
